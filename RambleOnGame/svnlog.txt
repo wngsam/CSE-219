@@ -1,0 +1,1479 @@
+Revision: 76
+Author: Sam
+Date: Wednesday, May 15, 2013 7:06:17 AM
+Message:
+Currently 4 Modes, Navigation, No Sound, No Account Data
+----
+Added : /RambleOnGame/data
+Added : /RambleOnGame/data/The World
+Added : /RambleOnGame/data/The World/Africa
+Added : /RambleOnGame/data/The World/Africa/Africa Data.xml
+Added : /RambleOnGame/data/The World/Africa/Africa Map.png
+Added : /RambleOnGame/data/The World/Africa/Algeria
+Added : /RambleOnGame/data/The World/Africa/Algeria/Algeria Data.xml
+Added : /RambleOnGame/data/The World/Africa/Algeria/Algeria Map.png
+Added : /RambleOnGame/data/The World/Africa/Algeria/Algeria National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Algeria/Thumbs.db
+Added : /RambleOnGame/data/The World/Africa/Algeria Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Algeria Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Angola
+Added : /RambleOnGame/data/The World/Africa/Angola/Angola Data.xml
+Added : /RambleOnGame/data/The World/Africa/Angola/Angola Map.png
+Added : /RambleOnGame/data/The World/Africa/Angola/Angola National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Angola Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Angola Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Benin
+Added : /RambleOnGame/data/The World/Africa/Benin/Benin Data.xml
+Added : /RambleOnGame/data/The World/Africa/Benin/Benin Map.png
+Added : /RambleOnGame/data/The World/Africa/Benin/Benin National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Benin Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Benin Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Botswana
+Added : /RambleOnGame/data/The World/Africa/Botswana/Botswana Data.xml
+Added : /RambleOnGame/data/The World/Africa/Botswana/Botswana Map.png
+Added : /RambleOnGame/data/The World/Africa/Botswana/Botswana National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Botswana Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Botswana Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Burkina Faso
+Added : /RambleOnGame/data/The World/Africa/Burkina Faso/Burkina Faso Data.xml
+Added : /RambleOnGame/data/The World/Africa/Burkina Faso/Burkina Faso Map.png
+Added : /RambleOnGame/data/The World/Africa/Burkina Faso/Burkina Faso National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Burkina Faso Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Burkina Faso Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Burundi
+Added : /RambleOnGame/data/The World/Africa/Burundi/Burundi Data.xml
+Added : /RambleOnGame/data/The World/Africa/Burundi/Burundi Map.png
+Added : /RambleOnGame/data/The World/Africa/Burundi/Burundi National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Burundi Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Burundi Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Cameroon
+Added : /RambleOnGame/data/The World/Africa/Cameroon/Cameroon Data.xml
+Added : /RambleOnGame/data/The World/Africa/Cameroon/Cameroon Map.png
+Added : /RambleOnGame/data/The World/Africa/Cameroon/Cameroon National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Cameroon Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Cameroon Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Canary Islands
+Added : /RambleOnGame/data/The World/Africa/Canary Islands/Canary Islands Data.xml
+Added : /RambleOnGame/data/The World/Africa/Canary Islands Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Canary Islands Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Cape Verde
+Added : /RambleOnGame/data/The World/Africa/Cape Verde/Cape Verde Data.xml
+Added : /RambleOnGame/data/The World/Africa/Cape Verde/Cape Verde Map.png
+Added : /RambleOnGame/data/The World/Africa/Cape Verde/Cape Verde National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Cape Verde Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Cape Verde Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Central African Republic
+Added : /RambleOnGame/data/The World/Africa/Central African Republic/Central African Republic Data.xml
+Added : /RambleOnGame/data/The World/Africa/Central African Republic/Central African Republic Map.png
+Added : /RambleOnGame/data/The World/Africa/Central African Republic/Central African Republic National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Central African Republic Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Central African Republic Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Ceuta
+Added : /RambleOnGame/data/The World/Africa/Ceuta/Ceuta Data.xml
+Added : /RambleOnGame/data/The World/Africa/Ceuta Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Ceuta Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Chad
+Added : /RambleOnGame/data/The World/Africa/Chad/Chad Data.xml
+Added : /RambleOnGame/data/The World/Africa/Chad/Chad Map.png
+Added : /RambleOnGame/data/The World/Africa/Chad/Chad National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Chad Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Chad Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Comoros
+Added : /RambleOnGame/data/The World/Africa/Comoros/Comoros Data.xml
+Added : /RambleOnGame/data/The World/Africa/Comoros/Comoros Map.PNG
+Added : /RambleOnGame/data/The World/Africa/Comoros/Comoros National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Comoros Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Comoros Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Congo Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Cote d'Ivoire
+Added : /RambleOnGame/data/The World/Africa/Cote d'Ivoire/Cote d'Ivoire Data.xml
+Added : /RambleOnGame/data/The World/Africa/Cote d'Ivoire/Cote d'Ivoire Map.png
+Added : /RambleOnGame/data/The World/Africa/Cote d'Ivoire/Cote d'Ivoire National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Cote d'Ivoire Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Cote d'Ivoire Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Democratic Republic of Congo
+Added : /RambleOnGame/data/The World/Africa/Democratic Republic of Congo/Democratic Republic of Congo Data.xml
+Added : /RambleOnGame/data/The World/Africa/Democratic Republic of Congo/Democratic Republic of Congo Map.png
+Added : /RambleOnGame/data/The World/Africa/Democratic Republic of Congo/Democratic Republic of Congo National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Democratic Republic of Congo Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Democratic Republic of Congo Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Djibouti
+Added : /RambleOnGame/data/The World/Africa/Djibouti/Djibouti Data.xml
+Added : /RambleOnGame/data/The World/Africa/Djibouti/Djibouti Map.png
+Added : /RambleOnGame/data/The World/Africa/Djibouti/Djibouti National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Djibouti Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Djibouti Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Egypt
+Added : /RambleOnGame/data/The World/Africa/Egypt/Egypt Data.xml
+Added : /RambleOnGame/data/The World/Africa/Egypt Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Egypt Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Equatorial Guinea
+Added : /RambleOnGame/data/The World/Africa/Equatorial Guinea/Equatorial Guinea Data.xml
+Added : /RambleOnGame/data/The World/Africa/Equatorial Guinea/Equatorial Guinea Map.png
+Added : /RambleOnGame/data/The World/Africa/Equatorial Guinea/Equatorial Guinea National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Equatorial Guinea Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Equatorial Guinea Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Eritrea
+Added : /RambleOnGame/data/The World/Africa/Eritrea/Eritrea Data.xml
+Added : /RambleOnGame/data/The World/Africa/Eritrea/Eritrea Map.png
+Added : /RambleOnGame/data/The World/Africa/Eritrea/Eritrea National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Eritrea Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Eritrea Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Ethiopia
+Added : /RambleOnGame/data/The World/Africa/Ethiopia/Ethiopia Data.xml
+Added : /RambleOnGame/data/The World/Africa/Ethiopia/Ethiopia Map.png
+Added : /RambleOnGame/data/The World/Africa/Ethiopia/Ethiopia National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Ethiopia Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Ethiopia Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Funchal
+Added : /RambleOnGame/data/The World/Africa/Funchal/Funchal Data.xml
+Added : /RambleOnGame/data/The World/Africa/Funchal Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Funchal Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Gabon
+Added : /RambleOnGame/data/The World/Africa/Gabon/Gabon Data.txt
+Added : /RambleOnGame/data/The World/Africa/Gabon/Gabon Map.png
+Added : /RambleOnGame/data/The World/Africa/Gabon/Gabon National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Gabon Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Gabon Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Gambia
+Added : /RambleOnGame/data/The World/Africa/Gambia/Gambia Data.xml
+Added : /RambleOnGame/data/The World/Africa/Gambia/Gambia Map.png
+Added : /RambleOnGame/data/The World/Africa/Gambia/National_Anthems_-_Gambia.mid
+Added : /RambleOnGame/data/The World/Africa/Gambia Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Gambia Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Ghana
+Added : /RambleOnGame/data/The World/Africa/Ghana/Ghana Data.xml
+Added : /RambleOnGame/data/The World/Africa/Ghana/Ghana Map.png
+Added : /RambleOnGame/data/The World/Africa/Ghana/Ghana National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Ghana Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Ghana Flag.png
+Added : /RambleOnGame/data/The World/Africa/Ghana Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Ghana Leader.png
+Added : /RambleOnGame/data/The World/Africa/Guinea
+Added : /RambleOnGame/data/The World/Africa/Guinea/Guinea Data.xml
+Added : /RambleOnGame/data/The World/Africa/Guinea/Guinea Map.png
+Added : /RambleOnGame/data/The World/Africa/Guinea/Guinea National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Guinea Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Guinea Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Guinea-Bissau
+Added : /RambleOnGame/data/The World/Africa/Guinea-Bissau/Guinea-Bissau Data.xml
+Added : /RambleOnGame/data/The World/Africa/Guinea-Bissau/Guinea-Bissau Map.png
+Added : /RambleOnGame/data/The World/Africa/Guinea-Bissau/Guinea-Bissau National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Guinea-Bissau Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Guinea-Bissau Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Kenya
+Added : /RambleOnGame/data/The World/Africa/Kenya/Kenya Data.xml
+Added : /RambleOnGame/data/The World/Africa/Kenya/Kenya Map.png
+Added : /RambleOnGame/data/The World/Africa/Kenya/Kenya National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Kenya Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Kenya Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Lesotho
+Added : /RambleOnGame/data/The World/Africa/Lesotho/Lesotho Data.xml
+Added : /RambleOnGame/data/The World/Africa/Lesotho/Lesotho Map.png
+Added : /RambleOnGame/data/The World/Africa/Lesotho/Lesotho National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Lesotho Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Lesotho Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Liberia
+Added : /RambleOnGame/data/The World/Africa/Liberia/Liberia Data.xml
+Added : /RambleOnGame/data/The World/Africa/Liberia/Liberia Map.png
+Added : /RambleOnGame/data/The World/Africa/Liberia/Liberia National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Liberia Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Liberia Flag.png
+Added : /RambleOnGame/data/The World/Africa/Liberia Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Libya
+Added : /RambleOnGame/data/The World/Africa/Libya/Libya Data.xml
+Added : /RambleOnGame/data/The World/Africa/Libya/Libya Map.png
+Added : /RambleOnGame/data/The World/Africa/Libya/Libya National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Libya Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Libya Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Madagascar
+Added : /RambleOnGame/data/The World/Africa/Madagascar/Madagascar Data.xml
+Added : /RambleOnGame/data/The World/Africa/Madagascar/Madagascar Map.png
+Added : /RambleOnGame/data/The World/Africa/Madagascar/Madagascar National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Madagascar Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Madagascar Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Malawi
+Added : /RambleOnGame/data/The World/Africa/Malawi/Malawi Data.xml
+Added : /RambleOnGame/data/The World/Africa/Malawi/Malawi Map.png
+Added : /RambleOnGame/data/The World/Africa/Malawi/Malawi National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Malawi Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Malawi Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Mali
+Added : /RambleOnGame/data/The World/Africa/Mali/Mali Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Mali/Mali Data.xml
+Added : /RambleOnGame/data/The World/Africa/Mali/Mali Map.png
+Added : /RambleOnGame/data/The World/Africa/Mali Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Mali Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Mauritania
+Added : /RambleOnGame/data/The World/Africa/Mauritania/Mauritania Data.xml
+Added : /RambleOnGame/data/The World/Africa/Mauritania/Mauritania Map.png
+Added : /RambleOnGame/data/The World/Africa/Mauritania/Mauritania National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Mauritania Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Mauritania Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Mauritius
+Added : /RambleOnGame/data/The World/Africa/Mauritius/Mauritius Data.xml
+Added : /RambleOnGame/data/The World/Africa/Mauritius/Mauritius Map.png
+Added : /RambleOnGame/data/The World/Africa/Mauritius/Mauritius National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Mauritius Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Mauritius Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Mayotte
+Added : /RambleOnGame/data/The World/Africa/Mayotte/Mayotte Data.xml
+Added : /RambleOnGame/data/The World/Africa/Mayotte Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Mayotte Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Melilla
+Added : /RambleOnGame/data/The World/Africa/Melilla/Melilla Data.xml
+Added : /RambleOnGame/data/The World/Africa/Melilla Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Melilla Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Morocco
+Added : /RambleOnGame/data/The World/Africa/Morocco/Morocco Data.xml
+Added : /RambleOnGame/data/The World/Africa/Morocco/Morocco Map.png
+Added : /RambleOnGame/data/The World/Africa/Morocco/Morocco National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Morocco/Thumbs.db
+Added : /RambleOnGame/data/The World/Africa/Morocco Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Morocco Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Mozambique
+Added : /RambleOnGame/data/The World/Africa/Mozambique/Mozambique Data.xml
+Added : /RambleOnGame/data/The World/Africa/Mozambique/Mozambique Map.PNG
+Added : /RambleOnGame/data/The World/Africa/Mozambique/Mozambique National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Mozambique/Thumbs.db
+Added : /RambleOnGame/data/The World/Africa/Mozambique Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Mozambique Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Namibia
+Added : /RambleOnGame/data/The World/Africa/Namibia/Namibia Data.xml
+Added : /RambleOnGame/data/The World/Africa/Namibia/Namibia Map.png
+Added : /RambleOnGame/data/The World/Africa/Namibia/Namibia National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Namibia Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Namibia Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Niger
+Added : /RambleOnGame/data/The World/Africa/Niger/Niger Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Niger/Niger Data.xml
+Added : /RambleOnGame/data/The World/Africa/Niger/Niger Map.png
+Added : /RambleOnGame/data/The World/Africa/Niger Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Niger Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Nigeria
+Added : /RambleOnGame/data/The World/Africa/Nigeria/Nigeria Data.xml
+Added : /RambleOnGame/data/The World/Africa/Nigeria/Nigeria Map.png
+Added : /RambleOnGame/data/The World/Africa/Nigeria/Nigeria National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Nigeria Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Nigeria Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Republic of the Congo
+Added : /RambleOnGame/data/The World/Africa/Republic of the Congo/Republic of the Congo Data.txt
+Added : /RambleOnGame/data/The World/Africa/Republic of the Congo/Republic of the Congo Map.png
+Added : /RambleOnGame/data/The World/Africa/Republic of the Congo/Republic of the Congo National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Republic of the Congo Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Republic of the Congo Flag.png
+Added : /RambleOnGame/data/The World/Africa/Republic of the Congo Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Reunion
+Added : /RambleOnGame/data/The World/Africa/Reunion/Reunion Data.xml
+Added : /RambleOnGame/data/The World/Africa/Reunion Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Reunion Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Rwanda
+Added : /RambleOnGame/data/The World/Africa/Rwanda/Rwanda Data.xml
+Added : /RambleOnGame/data/The World/Africa/Rwanda/Rwanda Map.png
+Added : /RambleOnGame/data/The World/Africa/Rwanda/Rwanda National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Rwanda Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Rwanda Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Sao Tome and Principe
+Added : /RambleOnGame/data/The World/Africa/Sao Tome and Principe/Sao Tome and Principe Data.xml
+Added : /RambleOnGame/data/The World/Africa/Sao Tome and Principe/Sao Tome and Principe Map.png
+Added : /RambleOnGame/data/The World/Africa/Sao Tome and Principe/Sao Tome and Principe National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Sao Tome and Principe Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Sao Tome and Principe Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Senegal
+Added : /RambleOnGame/data/The World/Africa/Senegal/Senegal Data.xml
+Added : /RambleOnGame/data/The World/Africa/Senegal/Senegal Map.png
+Added : /RambleOnGame/data/The World/Africa/Senegal/Senegal National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Senegal Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Senegal Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Seychelles
+Added : /RambleOnGame/data/The World/Africa/Seychelles/Seychelles Data.xml
+Added : /RambleOnGame/data/The World/Africa/Seychelles Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Seychelles Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Sierra Leone
+Added : /RambleOnGame/data/The World/Africa/Sierra Leone/Sierra Leone Data.xml
+Added : /RambleOnGame/data/The World/Africa/Sierra Leone/Sierra Leone Map.png
+Added : /RambleOnGame/data/The World/Africa/Sierra Leone/Sierra Leone National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Sierra Leone Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Sierra Leone Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Somalia
+Added : /RambleOnGame/data/The World/Africa/Somalia/Somalia Data.xml
+Added : /RambleOnGame/data/The World/Africa/Somalia/Somalia Map.jpg
+Added : /RambleOnGame/data/The World/Africa/Somalia/Somalia National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Somalia Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Somalia Leader.jpeg
+Added : /RambleOnGame/data/The World/Africa/Somalia Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/South Africa
+Added : /RambleOnGame/data/The World/Africa/South Africa/South Afirca Data.xml
+Added : /RambleOnGame/data/The World/Africa/South Africa/South Africa Map.png
+Added : /RambleOnGame/data/The World/Africa/South Africa/South Africa National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/South Africa Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/South Africa Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/South Sudan
+Added : /RambleOnGame/data/The World/Africa/South Sudan/South Sudan Data.xml
+Added : /RambleOnGame/data/The World/Africa/South Sudan/South Sudan Map.png
+Added : /RambleOnGame/data/The World/Africa/South Sudan/South Sudan National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/South Sudan Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/South Sudan Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/St. Helena
+Added : /RambleOnGame/data/The World/Africa/St. Helena/St. Helena Data.xml
+Added : /RambleOnGame/data/The World/Africa/St. Helena Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/St. Helena Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Sudan
+Added : /RambleOnGame/data/The World/Africa/Sudan/Sudan Data.xml
+Added : /RambleOnGame/data/The World/Africa/Sudan/Sudan Map.png
+Added : /RambleOnGame/data/The World/Africa/Sudan/Sudan National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Sudan Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Sudan Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Swaziland
+Added : /RambleOnGame/data/The World/Africa/Swaziland/Swaziland Data.xml
+Added : /RambleOnGame/data/The World/Africa/Swaziland/Swaziland Map.png
+Added : /RambleOnGame/data/The World/Africa/Swaziland/Swaziland National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Swaziland Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Swaziland Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Tanzania
+Added : /RambleOnGame/data/The World/Africa/Tanzania/Tanzania Data.xml
+Added : /RambleOnGame/data/The World/Africa/Tanzania/Tanzania Map.png
+Added : /RambleOnGame/data/The World/Africa/Tanzania/Tanzania National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Tanzania Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Tanzania Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Thumbs.db
+Added : /RambleOnGame/data/The World/Africa/Togo
+Added : /RambleOnGame/data/The World/Africa/Togo/Thumbs.db
+Added : /RambleOnGame/data/The World/Africa/Togo/Togo Data.xml
+Added : /RambleOnGame/data/The World/Africa/Togo/Togo Map.png
+Added : /RambleOnGame/data/The World/Africa/Togo/Togo National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Togo Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Togo Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Tunisia
+Added : /RambleOnGame/data/The World/Africa/Tunisia/Thumbs.db
+Added : /RambleOnGame/data/The World/Africa/Tunisia/Tunisia Data.xml
+Added : /RambleOnGame/data/The World/Africa/Tunisia/Tunisia Map.png
+Added : /RambleOnGame/data/The World/Africa/Tunisia/Tunisia National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Tunisia Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Tunisia Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Uganda
+Added : /RambleOnGame/data/The World/Africa/Uganda/RegionData.xsd
+Added : /RambleOnGame/data/The World/Africa/Uganda/Uganda Data.xml
+Added : /RambleOnGame/data/The World/Africa/Uganda/Uganda Map.png
+Added : /RambleOnGame/data/The World/Africa/Uganda/Uganda National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Uganda Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Uganda Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Western Sahara
+Added : /RambleOnGame/data/The World/Africa/Western Sahara/Western Sahara Data.xml
+Added : /RambleOnGame/data/The World/Africa/Western Sahara/Western Sahara Map.jpg
+Added : /RambleOnGame/data/The World/Africa/Western Sahara/Western Sahara National Anthem.midi
+Added : /RambleOnGame/data/The World/Africa/Western Sahara Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Western Sahara Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Zambia
+Added : /RambleOnGame/data/The World/Africa/Zambia/Zambia Data.xml
+Added : /RambleOnGame/data/The World/Africa/Zambia/Zambia Map.png
+Added : /RambleOnGame/data/The World/Africa/Zambia/Zambia National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Zambia Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Zambia Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/Zimbabwe
+Added : /RambleOnGame/data/The World/Africa/Zimbabwe/Zimbabwe Data.xml
+Added : /RambleOnGame/data/The World/Africa/Zimbabwe/Zimbabwe Map.png
+Added : /RambleOnGame/data/The World/Africa/Zimbabwe/Zimbabwe National Anthem.mid
+Added : /RambleOnGame/data/The World/Africa/Zimbabwe Flag.jpg
+Added : /RambleOnGame/data/The World/Africa/Zimbabwe Leader.jpg
+Added : /RambleOnGame/data/The World/Africa/images.jpg
+Added : /RambleOnGame/data/The World/Asia
+Added : /RambleOnGame/data/The World/Asia/Afghanistan
+Added : /RambleOnGame/data/The World/Asia/Afghanistan/Afghanistan Data.xml
+Added : /RambleOnGame/data/The World/Asia/Afghanistan/Afghanistan Map.png
+Added : /RambleOnGame/data/The World/Asia/Afghanistan Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Afghanistan Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Armenia
+Added : /RambleOnGame/data/The World/Asia/Armenia/Armenia Data.xml
+Added : /RambleOnGame/data/The World/Asia/Armenia/Armenia Map.png
+Added : /RambleOnGame/data/The World/Asia/Armenia/Armenia National Anthems.mid
+Added : /RambleOnGame/data/The World/Asia/Armenia Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Armenia Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Asia Data.xml
+Added : /RambleOnGame/data/The World/Asia/Asia Map.png
+Added : /RambleOnGame/data/The World/Asia/Azerbaijan
+Added : /RambleOnGame/data/The World/Asia/Azerbaijan/Azerbaijan Data.xml
+Added : /RambleOnGame/data/The World/Asia/Azerbaijan Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Azerbaijan Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Bahrain
+Added : /RambleOnGame/data/The World/Asia/Bahrain/Bahrain Data.xml
+Added : /RambleOnGame/data/The World/Asia/Bahrain/Bahrain Map.png
+Added : /RambleOnGame/data/The World/Asia/Bahrain/Bahrain National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Bahrain Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Bahrain Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Bangladesh
+Added : /RambleOnGame/data/The World/Asia/Bangladesh/Bangladesh Data.xml
+Added : /RambleOnGame/data/The World/Asia/Bangladesh Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Bangladesh Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Bhutan
+Added : /RambleOnGame/data/The World/Asia/Bhutan/Bhutan Data.xml
+Added : /RambleOnGame/data/The World/Asia/Bhutan/Bhutan Map.png
+Added : /RambleOnGame/data/The World/Asia/Bhutan/Bhutan National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Bhutan Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Bhutan Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Brunei
+Added : /RambleOnGame/data/The World/Asia/Brunei/Brunei Data.xml
+Added : /RambleOnGame/data/The World/Asia/Brunei/Brunei Map.png
+Added : /RambleOnGame/data/The World/Asia/Brunei/Brunei National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Brunei/RegionData.xsd
+Added : /RambleOnGame/data/The World/Asia/Brunei Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Brunei Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Cambodia
+Added : /RambleOnGame/data/The World/Asia/Cambodia/Cambodia Data.xml
+Added : /RambleOnGame/data/The World/Asia/Cambodia/Cambodia National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Cambodia/Cambodia.png
+Added : /RambleOnGame/data/The World/Asia/Cambodia Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Cambodia Flag.png
+Added : /RambleOnGame/data/The World/Asia/Cambodia Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/China
+Added : /RambleOnGame/data/The World/Asia/China/China Data.xml
+Added : /RambleOnGame/data/The World/Asia/China/China Map.png
+Added : /RambleOnGame/data/The World/Asia/China/China National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/China Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/China Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Georgia
+Added : /RambleOnGame/data/The World/Asia/Georgia/Georgia Data.xml
+Added : /RambleOnGame/data/The World/Asia/Georgia/Georgia Map.png
+Added : /RambleOnGame/data/The World/Asia/Georgia/Georgia National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Georgia Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Georgia Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Guam Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Guam Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/India
+Added : /RambleOnGame/data/The World/Asia/India/India Data.xml
+Added : /RambleOnGame/data/The World/Asia/India/India Map.png
+Added : /RambleOnGame/data/The World/Asia/India/India National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/India Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/India Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Iran
+Added : /RambleOnGame/data/The World/Asia/Iran/Iran Data.xml
+Added : /RambleOnGame/data/The World/Asia/Iran/Iran Map.png
+Added : /RambleOnGame/data/The World/Asia/Iran/Iran National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Iran Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Iran Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Iraq
+Added : /RambleOnGame/data/The World/Asia/Iraq/Iraq Data.xml
+Added : /RambleOnGame/data/The World/Asia/Iraq/Iraq Map.png
+Added : /RambleOnGame/data/The World/Asia/Iraq/Iraq National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Iraq Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Iraq Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Israel
+Added : /RambleOnGame/data/The World/Asia/Israel/Israel Data.xml
+Added : /RambleOnGame/data/The World/Asia/Israel/Israel Map.png
+Added : /RambleOnGame/data/The World/Asia/Israel/Israel National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Israel Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Israel Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Japan
+Added : /RambleOnGame/data/The World/Asia/Japan/Japan Data.xml
+Added : /RambleOnGame/data/The World/Asia/Japan/Japan Map.png
+Added : /RambleOnGame/data/The World/Asia/Japan/Japan National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Japan Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Japan Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Jordan
+Added : /RambleOnGame/data/The World/Asia/Jordan/Jordan Data.xml
+Added : /RambleOnGame/data/The World/Asia/Jordan/Jordan Map.png
+Added : /RambleOnGame/data/The World/Asia/Jordan/Jordan National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Jordan Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Jordan Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Kazakhstan
+Added : /RambleOnGame/data/The World/Asia/Kazakhstan/Kazakhstan Data.xml
+Added : /RambleOnGame/data/The World/Asia/Kazakhstan/Kazakhstan National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Kazakhstan/Kazakhstan.PNG
+Added : /RambleOnGame/data/The World/Asia/Kazakhstan Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Kazakhstan Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Kuwait
+Added : /RambleOnGame/data/The World/Asia/Kuwait/Kuwait Data.xml
+Added : /RambleOnGame/data/The World/Asia/Kuwait/Kuwait Map.png
+Added : /RambleOnGame/data/The World/Asia/Kuwait/Kuwait National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Kuwait/Thumbs.db
+Added : /RambleOnGame/data/The World/Asia/Kuwait Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Kuwait Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Kyrgyzstan
+Added : /RambleOnGame/data/The World/Asia/Kyrgyzstan/Kyrgyzstan Data.xml
+Added : /RambleOnGame/data/The World/Asia/Kyrgyzstan/Kyrgyzstan Map.png
+Added : /RambleOnGame/data/The World/Asia/Kyrgyzstan/Kyrgyzstan National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Kyrgyzstan Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Kyrgyzstan Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Laos
+Added : /RambleOnGame/data/The World/Asia/Laos/Laos Data.xml
+Added : /RambleOnGame/data/The World/Asia/Laos/Laos Map.PNG
+Added : /RambleOnGame/data/The World/Asia/Laos/Laos National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Laos Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Laos Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Lebanon
+Added : /RambleOnGame/data/The World/Asia/Lebanon/Lebanon Data.xml
+Added : /RambleOnGame/data/The World/Asia/Lebanon/Lebanon Map.png
+Added : /RambleOnGame/data/The World/Asia/Lebanon/Lebanon National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Lebanon Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Lebanon Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Malaysia
+Added : /RambleOnGame/data/The World/Asia/Malaysia/Malaysia Data.xml
+Added : /RambleOnGame/data/The World/Asia/Malaysia/Malaysia Map.png
+Added : /RambleOnGame/data/The World/Asia/Malaysia/Malaysia National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Malaysia Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Malaysia Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Maldives
+Added : /RambleOnGame/data/The World/Asia/Maldives/Maldives Data.xml
+Added : /RambleOnGame/data/The World/Asia/Maldives/Maldives Map.png
+Added : /RambleOnGame/data/The World/Asia/Maldives/Maldives National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Maldives/Thumbs.db
+Added : /RambleOnGame/data/The World/Asia/Maldives Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Maldives Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Mongolia
+Added : /RambleOnGame/data/The World/Asia/Mongolia/Mongolia Data.xml
+Added : /RambleOnGame/data/The World/Asia/Mongolia/Mongolia Map.png
+Added : /RambleOnGame/data/The World/Asia/Mongolia/Mongolia National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Mongolia Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Mongolia Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Myanmar
+Added : /RambleOnGame/data/The World/Asia/Myanmar/Myanmar Data.xml
+Added : /RambleOnGame/data/The World/Asia/Myanmar/Myanmar Map.png
+Added : /RambleOnGame/data/The World/Asia/Myanmar/Myanmar National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Myanmar/Thumbs.db
+Added : /RambleOnGame/data/The World/Asia/Myanmar Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Myanmar Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Nepal
+Added : /RambleOnGame/data/The World/Asia/Nepal/Nepal Data.xml
+Added : /RambleOnGame/data/The World/Asia/Nepal/Nepal Map.png
+Added : /RambleOnGame/data/The World/Asia/Nepal/Nepal National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Nepal Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Nepal Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/North Korea
+Added : /RambleOnGame/data/The World/Asia/North Korea/North Korea Data.xml
+Added : /RambleOnGame/data/The World/Asia/North Korea/North Korea Map.png
+Added : /RambleOnGame/data/The World/Asia/North Korea/North Korea National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/North Korea Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/North Korea Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Oman
+Added : /RambleOnGame/data/The World/Asia/Oman/Oman Data.xml
+Added : /RambleOnGame/data/The World/Asia/Oman/Oman Map.png
+Added : /RambleOnGame/data/The World/Asia/Oman/Oman National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Oman Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Oman Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Pakistan
+Added : /RambleOnGame/data/The World/Asia/Pakistan/Pakistan Data.xml
+Added : /RambleOnGame/data/The World/Asia/Pakistan/Pakistan Map.png
+Added : /RambleOnGame/data/The World/Asia/Pakistan/Pakistan National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Pakistan/Thumbs.db
+Added : /RambleOnGame/data/The World/Asia/Pakistan Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Pakistan Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Palestine
+Added : /RambleOnGame/data/The World/Asia/Palestine/Palestine Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Palestine/Palestine Data.xml
+Added : /RambleOnGame/data/The World/Asia/Palestine/Palestine Map.PNG
+Added : /RambleOnGame/data/The World/Asia/Palestine Flag.JPG
+Added : /RambleOnGame/data/The World/Asia/Palestine Leader.JPG
+Added : /RambleOnGame/data/The World/Asia/Philippines
+Added : /RambleOnGame/data/The World/Asia/Philippines/Philippines Data.xml
+Added : /RambleOnGame/data/The World/Asia/Philippines/Philippines Map.png
+Added : /RambleOnGame/data/The World/Asia/Philippines/Philippines National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Philippines Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Philippines Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Qatar
+Added : /RambleOnGame/data/The World/Asia/Qatar/Qatar Data.xml
+Added : /RambleOnGame/data/The World/Asia/Qatar/Qatar Map.PNG
+Added : /RambleOnGame/data/The World/Asia/Qatar/Qatar Nation Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Qatar/Thumbs.db
+Added : /RambleOnGame/data/The World/Asia/Qatar Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Qatar Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Russia
+Added : /RambleOnGame/data/The World/Asia/Russia/Russia Data.xml
+Added : /RambleOnGame/data/The World/Asia/Russia/Russia Map.png
+Added : /RambleOnGame/data/The World/Asia/Russia/Russia National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Russia Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Russia Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Saudi Arabia
+Added : /RambleOnGame/data/The World/Asia/Saudi Arabia/Saudi Arabia Data.xml
+Added : /RambleOnGame/data/The World/Asia/Saudi Arabia Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Saudi Arabia Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Singapore
+Added : /RambleOnGame/data/The World/Asia/Singapore/Singapore Data.xml
+Added : /RambleOnGame/data/The World/Asia/Singapore Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Singapore Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/South Korea
+Added : /RambleOnGame/data/The World/Asia/South Korea/Korea Data.Xml
+Added : /RambleOnGame/data/The World/Asia/South Korea/Korea Map.png
+Added : /RambleOnGame/data/The World/Asia/South Korea/South Korea National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/South Korea Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/South Korea Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/South Korea Leader.png
+Added : /RambleOnGame/data/The World/Asia/Sri Lanka
+Added : /RambleOnGame/data/The World/Asia/Sri Lanka/Sri Lanka Data.xml
+Added : /RambleOnGame/data/The World/Asia/Sri Lanka/Sri Lanka Map.PNG
+Added : /RambleOnGame/data/The World/Asia/Sri Lanka/Sri Lanka National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Sri Lanka/Thumbs.db
+Added : /RambleOnGame/data/The World/Asia/Sri Lanka Flag.jpeg
+Added : /RambleOnGame/data/The World/Asia/Sri Lanka Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Sri Lanka Leader.jpeg
+Added : /RambleOnGame/data/The World/Asia/Sri Lanka Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Syria
+Added : /RambleOnGame/data/The World/Asia/Syria/Syria Data.xml
+Added : /RambleOnGame/data/The World/Asia/Syria/Syria Map.png
+Added : /RambleOnGame/data/The World/Asia/Syria/Syria National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Syria Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Syria Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Taiwan
+Added : /RambleOnGame/data/The World/Asia/Taiwan/Taiwan Data.xml
+Added : /RambleOnGame/data/The World/Asia/Taiwan/Taiwan Map.jpg
+Added : /RambleOnGame/data/The World/Asia/Taiwan/Taiwan Nation Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Taiwan Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Taiwan Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Tajikistan
+Added : /RambleOnGame/data/The World/Asia/Tajikistan/Tajikistan Data.xml
+Added : /RambleOnGame/data/The World/Asia/Tajikistan/Tajikistan Map.png
+Added : /RambleOnGame/data/The World/Asia/Tajikistan/Tajikistan National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Tajikistan Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Tajikistan Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Thailand
+Added : /RambleOnGame/data/The World/Asia/Thailand/Thailand Data.xml
+Added : /RambleOnGame/data/The World/Asia/Thailand/Thailand Map.jpg
+Added : /RambleOnGame/data/The World/Asia/Thailand/Thailand Nation Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Thailand Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Thailand Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Thumbs.db
+Added : /RambleOnGame/data/The World/Asia/Turkmenistan
+Added : /RambleOnGame/data/The World/Asia/Turkmenistan/Turkmenistan Data.xml
+Added : /RambleOnGame/data/The World/Asia/Turkmenistan/Turkmenistan Map.png
+Added : /RambleOnGame/data/The World/Asia/Turkmenistan/Turkmenistan National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Turkmenistan Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Turkmenistan Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/United Arab Emirates
+Added : /RambleOnGame/data/The World/Asia/United Arab Emirates/United Arab Emirates Data.xml
+Added : /RambleOnGame/data/The World/Asia/United Arab Emirates/United Arab Emirates Map.PNG
+Added : /RambleOnGame/data/The World/Asia/United Arab Emirates/United Arab Emirates National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/United Arab Emirates Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/United Arab Emirates Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Uzbekistan
+Added : /RambleOnGame/data/The World/Asia/Uzbekistan/Uzbekistan Data.xml
+Added : /RambleOnGame/data/The World/Asia/Uzbekistan/Uzbekistan Map.png
+Added : /RambleOnGame/data/The World/Asia/Uzbekistan/Uzbekistan National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Uzbekistan Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Uzbekistan Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Vietnam
+Added : /RambleOnGame/data/The World/Asia/Vietnam/Vietnam Data.xml
+Added : /RambleOnGame/data/The World/Asia/Vietnam/Vietnam Map.png
+Added : /RambleOnGame/data/The World/Asia/Vietnam/Vietnam National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Vietnam Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Vietnam Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Yemen
+Added : /RambleOnGame/data/The World/Asia/Yemen/Yemen Data.xml
+Added : /RambleOnGame/data/The World/Asia/Yemen/Yemen Map.png
+Added : /RambleOnGame/data/The World/Asia/Yemen/Yemen National Anthem.mid
+Added : /RambleOnGame/data/The World/Asia/Yemen Flag.jpg
+Added : /RambleOnGame/data/The World/Asia/Yemen Flag.png
+Added : /RambleOnGame/data/The World/Asia/Yemen Leader.jpg
+Added : /RambleOnGame/data/The World/Asia/Yemen Leader.png
+Added : /RambleOnGame/data/The World/Europe
+Added : /RambleOnGame/data/The World/Europe/Albania
+Added : /RambleOnGame/data/The World/Europe/Albania/Albania Data.xml
+Added : /RambleOnGame/data/The World/Europe/Albania/Albania Map.png
+Added : /RambleOnGame/data/The World/Europe/Albania/Albania National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Albania/Thumbs.db
+Added : /RambleOnGame/data/The World/Europe/Albania Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Albania Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Andorra
+Added : /RambleOnGame/data/The World/Europe/Andorra/Andorra Data.xml
+Added : /RambleOnGame/data/The World/Europe/Andorra/Andorra Map.png
+Added : /RambleOnGame/data/The World/Europe/Andorra/Andorra National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Andorra Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Andorra Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Armenia
+Added : /RambleOnGame/data/The World/Europe/Armenia/Armenia Data.xml
+Added : /RambleOnGame/data/The World/Europe/Armenia/Armenia Map.png
+Added : /RambleOnGame/data/The World/Europe/Armenia/Armenia national Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Armenia/Thumbs.db
+Added : /RambleOnGame/data/The World/Europe/Armenia Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Armenia Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Austria
+Added : /RambleOnGame/data/The World/Europe/Austria/Austria Data.xml
+Added : /RambleOnGame/data/The World/Europe/Austria/Austria Map.png
+Added : /RambleOnGame/data/The World/Europe/Austria/Austria National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Austria Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Austria Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Belarus
+Added : /RambleOnGame/data/The World/Europe/Belarus/Belarus Data.xml
+Added : /RambleOnGame/data/The World/Europe/Belarus/Belarus Map.png
+Added : /RambleOnGame/data/The World/Europe/Belarus/Belarus National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Belarus Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Belarus Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Belgium
+Added : /RambleOnGame/data/The World/Europe/Belgium/Belgium Data.xml
+Added : /RambleOnGame/data/The World/Europe/Belgium/Belgium Map.PNG
+Added : /RambleOnGame/data/The World/Europe/Belgium/Belgium National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Belgium/Thumbs.db
+Added : /RambleOnGame/data/The World/Europe/Belgium Flag.jpeg
+Added : /RambleOnGame/data/The World/Europe/Belgium Leader.jpeg
+Added : /RambleOnGame/data/The World/Europe/Bosnia and Herzegovina
+Added : /RambleOnGame/data/The World/Europe/Bosnia and Herzegovina/Bosnia and Herzegovina Data.xml
+Added : /RambleOnGame/data/The World/Europe/Bosnia and Herzegovina/Bosnia and Herzegovina Map.png
+Added : /RambleOnGame/data/The World/Europe/Bosnia and Herzegovina/Bosnia and Herzegovina National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Bosnia and Herzegovina Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Bosnia and Herzegovina Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Bulgaria
+Added : /RambleOnGame/data/The World/Europe/Bulgaria/Bulgaria Data.xml
+Added : /RambleOnGame/data/The World/Europe/Bulgaria/Bulgaria Map.png
+Added : /RambleOnGame/data/The World/Europe/Bulgaria/Bulgaria National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Bulgaria Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Bulgaria Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Chile Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Chile Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Croatia
+Added : /RambleOnGame/data/The World/Europe/Croatia/Croatia Data.xml
+Added : /RambleOnGame/data/The World/Europe/Croatia/Croatia Map.png
+Added : /RambleOnGame/data/The World/Europe/Croatia/Croatia National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Croatia Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Croatia Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Cyprus
+Added : /RambleOnGame/data/The World/Europe/Cyprus/Cypris National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Cyprus/Cyprus Data.xml
+Added : /RambleOnGame/data/The World/Europe/Cyprus/Cyprus Map.png
+Added : /RambleOnGame/data/The World/Europe/Cyprus Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Cyprus Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Czech Republic
+Added : /RambleOnGame/data/The World/Europe/Czech Republic/Czech Republic Data.xml
+Added : /RambleOnGame/data/The World/Europe/Czech Republic/Czech Republic Map.png
+Added : /RambleOnGame/data/The World/Europe/Czech Republic/Czech Republic National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Czech Republic Flag.png
+Added : /RambleOnGame/data/The World/Europe/Czech Republic Leader.png
+Added : /RambleOnGame/data/The World/Europe/Denmark
+Added : /RambleOnGame/data/The World/Europe/Denmark/Denmark Data.xml
+Added : /RambleOnGame/data/The World/Europe/Denmark/Denmark Map.png
+Added : /RambleOnGame/data/The World/Europe/Denmark/Denmark National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Denmark Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Denmark Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/England
+Added : /RambleOnGame/data/The World/Europe/England/England Data.xml
+Added : /RambleOnGame/data/The World/Europe/England/England Map.png
+Added : /RambleOnGame/data/The World/Europe/England/England National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/England Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/England Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Estonia
+Added : /RambleOnGame/data/The World/Europe/Estonia/Estonia Data.xml
+Added : /RambleOnGame/data/The World/Europe/Estonia/Estonia Map.png
+Added : /RambleOnGame/data/The World/Europe/Estonia/Estonia National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Estonia Flag.png
+Added : /RambleOnGame/data/The World/Europe/Estonia Leader.png
+Added : /RambleOnGame/data/The World/Europe/Europe Data.xml
+Added : /RambleOnGame/data/The World/Europe/Europe Map.png
+Added : /RambleOnGame/data/The World/Europe/Finland
+Added : /RambleOnGame/data/The World/Europe/Finland/Finland Data.xml
+Added : /RambleOnGame/data/The World/Europe/Finland/Finland Map.png
+Added : /RambleOnGame/data/The World/Europe/Finland/Finland National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Finland Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Finland Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/France
+Added : /RambleOnGame/data/The World/Europe/France/France Data.xml
+Added : /RambleOnGame/data/The World/Europe/France/France Map.png
+Added : /RambleOnGame/data/The World/Europe/France/France National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/France Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/France Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Germany
+Added : /RambleOnGame/data/The World/Europe/Germany/Germany Data.xml
+Added : /RambleOnGame/data/The World/Europe/Germany/Germany Map.png
+Added : /RambleOnGame/data/The World/Europe/Germany/Germany National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Germany Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Germany Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Greece
+Added : /RambleOnGame/data/The World/Europe/Greece/Greece Data.xml
+Added : /RambleOnGame/data/The World/Europe/Greece/Greece Map.png
+Added : /RambleOnGame/data/The World/Europe/Greece/Greece National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Greece Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Greece Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Hungary
+Added : /RambleOnGame/data/The World/Europe/Hungary/Hungary Data.xml
+Added : /RambleOnGame/data/The World/Europe/Hungary/Hungary Map.png
+Added : /RambleOnGame/data/The World/Europe/Hungary/Hungary National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Hungary Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Hungary Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Iceland
+Added : /RambleOnGame/data/The World/Europe/Iceland/Iceland Data.xml
+Added : /RambleOnGame/data/The World/Europe/Iceland/Iceland Map.png
+Added : /RambleOnGame/data/The World/Europe/Iceland/Iceland National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Iceland Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Iceland Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Ireland
+Added : /RambleOnGame/data/The World/Europe/Ireland/Ireland Data.xml
+Added : /RambleOnGame/data/The World/Europe/Ireland/Ireland Map.png
+Added : /RambleOnGame/data/The World/Europe/Ireland/Ireland National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Ireland Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Ireland Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Italy
+Added : /RambleOnGame/data/The World/Europe/Italy/Italy Data.xml
+Added : /RambleOnGame/data/The World/Europe/Italy/Italy Map.png
+Added : /RambleOnGame/data/The World/Europe/Italy/Italy National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Italy Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Italy Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Kosovo
+Added : /RambleOnGame/data/The World/Europe/Kosovo/Kosovo Data.xml
+Added : /RambleOnGame/data/The World/Europe/Kosovo/Kosovo Map.png
+Added : /RambleOnGame/data/The World/Europe/Kosovo/Kosovo National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Kosovo/Thumbs.db
+Added : /RambleOnGame/data/The World/Europe/Latvia
+Added : /RambleOnGame/data/The World/Europe/Latvia/Latvia Data.xml
+Added : /RambleOnGame/data/The World/Europe/Latvia/Latvia Map.png
+Added : /RambleOnGame/data/The World/Europe/Latvia/Latvia National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Latvia Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Latvia Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Liechtenstein
+Added : /RambleOnGame/data/The World/Europe/Liechtenstein/Liechtenstein Data.xml
+Added : /RambleOnGame/data/The World/Europe/Liechtenstein/Liechtenstein Map.png
+Added : /RambleOnGame/data/The World/Europe/Liechtenstein/Liechtenstein National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Liechtenstein Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Liechtenstein Flag.png
+Added : /RambleOnGame/data/The World/Europe/Liechtenstein Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Liechtenstein Leader.png
+Added : /RambleOnGame/data/The World/Europe/Lithuania
+Added : /RambleOnGame/data/The World/Europe/Lithuania/Lithuania Data.xml
+Added : /RambleOnGame/data/The World/Europe/Lithuania/Lithuania Map.png
+Added : /RambleOnGame/data/The World/Europe/Lithuania/Lithuania National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Lithuania Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Lithuania Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Luxembourg
+Added : /RambleOnGame/data/The World/Europe/Luxembourg/Luxembourg Data.xml
+Added : /RambleOnGame/data/The World/Europe/Luxembourg/Luxembourg Map.png
+Added : /RambleOnGame/data/The World/Europe/Luxembourg/Luxembourg National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Luxembourg Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Luxembourg Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Macedonia
+Added : /RambleOnGame/data/The World/Europe/Macedonia/Macedonia Data.xml
+Added : /RambleOnGame/data/The World/Europe/Macedonia/Macedonia Map.png
+Added : /RambleOnGame/data/The World/Europe/Macedonia/Macedonia National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Macedonia Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Macedonia Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Malta
+Added : /RambleOnGame/data/The World/Europe/Malta/Malta Data.xml
+Added : /RambleOnGame/data/The World/Europe/Malta/Malta Map.png
+Added : /RambleOnGame/data/The World/Europe/Malta/Malta National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Malta/Thumbs.db
+Added : /RambleOnGame/data/The World/Europe/Malta Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Malta Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Moldova
+Added : /RambleOnGame/data/The World/Europe/Moldova/Moldova Data.xml
+Added : /RambleOnGame/data/The World/Europe/Moldova/Moldova Map.png
+Added : /RambleOnGame/data/The World/Europe/Moldova/Moldova National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Moldova Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Moldova Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Monaco
+Added : /RambleOnGame/data/The World/Europe/Monaco/Monaco Data.xml
+Added : /RambleOnGame/data/The World/Europe/Monaco/Monaco Map.png
+Added : /RambleOnGame/data/The World/Europe/Monaco/Monaco National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Monaco Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Monaco Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Montenegro
+Added : /RambleOnGame/data/The World/Europe/Montenegro/Montenegro Data.xml
+Added : /RambleOnGame/data/The World/Europe/Montenegro/Montenegro Map.png
+Added : /RambleOnGame/data/The World/Europe/Montenegro/Montenegro National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Montenegro Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Montenegro Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Netherlands
+Added : /RambleOnGame/data/The World/Europe/Netherlands/Netherlands National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Netherlands/Netherlands.png
+Added : /RambleOnGame/data/The World/Europe/Netherlands Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Netherlands Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Norway
+Added : /RambleOnGame/data/The World/Europe/Norway/Norway Data.xml
+Added : /RambleOnGame/data/The World/Europe/Norway/Norway Nation Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Norway/Norway.png
+Added : /RambleOnGame/data/The World/Europe/Norway Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Norway Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Poland
+Added : /RambleOnGame/data/The World/Europe/Poland/Poland Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Poland/Poland Data.xml
+Added : /RambleOnGame/data/The World/Europe/Poland/Poland Map.png
+Added : /RambleOnGame/data/The World/Europe/Poland Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Poland Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Portugal
+Added : /RambleOnGame/data/The World/Europe/Portugal/Portugal Data.xml
+Added : /RambleOnGame/data/The World/Europe/Portugal/Portugal Map.png
+Added : /RambleOnGame/data/The World/Europe/Portugal/Portugal National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Portugal Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Portugal Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Reunion
+Added : /RambleOnGame/data/The World/Europe/Reunion/Reunion Data.xml
+Added : /RambleOnGame/data/The World/Europe/Reunion/Reunion Map.png
+Added : /RambleOnGame/data/The World/Europe/Reunion/Reunion National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Reunion Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Reunion Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Romania
+Added : /RambleOnGame/data/The World/Europe/Romania/Romania Data.xml
+Added : /RambleOnGame/data/The World/Europe/Romania/Romania Map.png
+Added : /RambleOnGame/data/The World/Europe/Romania/Romania National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Romania Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Romania Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/San Marino
+Added : /RambleOnGame/data/The World/Europe/San Marino/San Marino Data.xml
+Added : /RambleOnGame/data/The World/Europe/San Marino/San Marino Map.png
+Added : /RambleOnGame/data/The World/Europe/San Marino/San Marino National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/San Marino Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/San Marino Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Scotland
+Added : /RambleOnGame/data/The World/Europe/Scotland/Scotland Data.xml
+Added : /RambleOnGame/data/The World/Europe/Scotland/Scotland Map.png
+Added : /RambleOnGame/data/The World/Europe/Scotland/Scotland National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Scotland Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Scotland Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Serbia
+Added : /RambleOnGame/data/The World/Europe/Serbia/Serbia Data.xml
+Added : /RambleOnGame/data/The World/Europe/Serbia/Serbia Map.png
+Added : /RambleOnGame/data/The World/Europe/Serbia/Serbia National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Serbia Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Serbia Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Slovakia
+Added : /RambleOnGame/data/The World/Europe/Slovakia/Slovakia Data.xml
+Added : /RambleOnGame/data/The World/Europe/Slovakia/Slovakia Map.png
+Added : /RambleOnGame/data/The World/Europe/Slovakia/Slovakia National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Slovakia Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Slovakia Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Slovenia
+Added : /RambleOnGame/data/The World/Europe/Slovenia/Slovenia Data.xml
+Added : /RambleOnGame/data/The World/Europe/Slovenia/Slovenia Map.png
+Added : /RambleOnGame/data/The World/Europe/Slovenia/Slovenia National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Slovenia Flag.png
+Added : /RambleOnGame/data/The World/Europe/Slovenia Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Spain
+Added : /RambleOnGame/data/The World/Europe/Spain/Spain Data.xml
+Added : /RambleOnGame/data/The World/Europe/Spain/Spain Map.png
+Added : /RambleOnGame/data/The World/Europe/Spain/Spain National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Spain Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Spain Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Sweden
+Added : /RambleOnGame/data/The World/Europe/Sweden/Sweden Data.xml
+Added : /RambleOnGame/data/The World/Europe/Sweden/Sweden Map.png
+Added : /RambleOnGame/data/The World/Europe/Sweden/Sweden National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Sweden Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Sweden Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Switzerland
+Added : /RambleOnGame/data/The World/Europe/Switzerland/Switzerland Data.xml
+Added : /RambleOnGame/data/The World/Europe/Switzerland/Switzerland Map.png
+Added : /RambleOnGame/data/The World/Europe/Switzerland/Switzerland National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Switzerland Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Switzerland Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Thumbs.db
+Added : /RambleOnGame/data/The World/Europe/Turkey
+Added : /RambleOnGame/data/The World/Europe/Turkey/National_Anthems_-_Turkey.mid
+Added : /RambleOnGame/data/The World/Europe/Turkey/Turkey Data.xml
+Added : /RambleOnGame/data/The World/Europe/Turkey/Turkey Map.png
+Added : /RambleOnGame/data/The World/Europe/Turkey/Turkey National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Turkey Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Turkey Flag.png
+Added : /RambleOnGame/data/The World/Europe/Turkey Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Turkey Leader.png
+Added : /RambleOnGame/data/The World/Europe/Ukraine
+Added : /RambleOnGame/data/The World/Europe/Ukraine/Ukraine Data.xml
+Added : /RambleOnGame/data/The World/Europe/Ukraine/Ukraine Map.png
+Added : /RambleOnGame/data/The World/Europe/Ukraine/Ukraine National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Ukraine Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Ukraine Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/Wales
+Added : /RambleOnGame/data/The World/Europe/Wales/Wales Data.xml
+Added : /RambleOnGame/data/The World/Europe/Wales/Wales Map.png
+Added : /RambleOnGame/data/The World/Europe/Wales/Wales National Anthem.mid
+Added : /RambleOnGame/data/The World/Europe/Wales Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/Wales Leader.jpg
+Added : /RambleOnGame/data/The World/Europe/kosovo Flag.jpg
+Added : /RambleOnGame/data/The World/Europe/kosovo Leader.jpg
+Added : /RambleOnGame/data/The World/North America
+Added : /RambleOnGame/data/The World/North America/Antigua and Barbuda
+Added : /RambleOnGame/data/The World/North America/Antigua and Barbuda/Antigua and Barbuda Data.xml
+Added : /RambleOnGame/data/The World/North America/Antigua and Barbuda/Antigua and Barbuda Map.png
+Added : /RambleOnGame/data/The World/North America/Antigua and Barbuda/Antigua and Barbuda National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Antigua and Barbuda/Thumbs.db
+Added : /RambleOnGame/data/The World/North America/Antigua and Barbuda Flag.png
+Added : /RambleOnGame/data/The World/North America/Antigua and Barbuda Leader.png
+Added : /RambleOnGame/data/The World/North America/Bahamas
+Added : /RambleOnGame/data/The World/North America/Bahamas/Bahamas Data.xml
+Added : /RambleOnGame/data/The World/North America/Bahamas/Bahamas Map.jpg
+Added : /RambleOnGame/data/The World/North America/Bahamas/Bahamas National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Bahamas/Thumbs.db
+Added : /RambleOnGame/data/The World/North America/Bahamas Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Bahamas Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Barbados
+Added : /RambleOnGame/data/The World/North America/Barbados/Barbados Data.xml
+Added : /RambleOnGame/data/The World/North America/Barbados/Barbados Map.png
+Added : /RambleOnGame/data/The World/North America/Barbados/Barbados National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Barbados Flag.png
+Added : /RambleOnGame/data/The World/North America/Barbados Leader.png
+Added : /RambleOnGame/data/The World/North America/Belize
+Added : /RambleOnGame/data/The World/North America/Belize/Belize Data.xml
+Added : /RambleOnGame/data/The World/North America/Belize/Belize Map.png
+Added : /RambleOnGame/data/The World/North America/Belize/National_Anthems_-_Belize.mid
+Added : /RambleOnGame/data/The World/North America/Belize Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Bermuda
+Added : /RambleOnGame/data/The World/North America/Bermuda/Bermuda Data.xml
+Added : /RambleOnGame/data/The World/North America/Bermuda/Bermuda Map.png
+Added : /RambleOnGame/data/The World/North America/Bermuda/Bermuda National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Bermuda Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Bermuda Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Canada
+Added : /RambleOnGame/data/The World/North America/Canada/Canada Data.xml
+Added : /RambleOnGame/data/The World/North America/Canada/Canada Map.png
+Added : /RambleOnGame/data/The World/North America/Canada/Canada National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Canada Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Canada Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Cayman Islands
+Added : /RambleOnGame/data/The World/North America/Cayman Islands/Cayman Islands Data.xml
+Added : /RambleOnGame/data/The World/North America/Cayman Islands/Cayman Islands Map.jpg
+Added : /RambleOnGame/data/The World/North America/Cayman Islands/Cayman Islands Map.png
+Added : /RambleOnGame/data/The World/North America/Cayman Islands/Cayman Islands National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Cayman Islands Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Cayman Islands Flag.png
+Added : /RambleOnGame/data/The World/North America/Cayman Islands Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Costa Rica
+Added : /RambleOnGame/data/The World/North America/Costa Rica/Costa Rica Data.xml
+Added : /RambleOnGame/data/The World/North America/Costa Rica/Costa Rica Map.png
+Added : /RambleOnGame/data/The World/North America/Costa Rica/Costa Rica National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Costa Rica Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Costa Rica Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Cuba
+Added : /RambleOnGame/data/The World/North America/Cuba/Cuba Data.xml
+Added : /RambleOnGame/data/The World/North America/Cuba/Cuba Map.png
+Added : /RambleOnGame/data/The World/North America/Cuba/Cuba National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Cuba Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Cuba Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Dominica
+Added : /RambleOnGame/data/The World/North America/Dominica/Dominica Data.xml
+Added : /RambleOnGame/data/The World/North America/Dominica/Dominica Map.png
+Added : /RambleOnGame/data/The World/North America/Dominica/Dominica National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Dominica/Thumbs.db
+Added : /RambleOnGame/data/The World/North America/Dominica Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Dominica Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Dominican Republic
+Added : /RambleOnGame/data/The World/North America/Dominican Republic/Dominican Republic Data.xml
+Added : /RambleOnGame/data/The World/North America/Dominican Republic/Dominican Republic Map.png
+Added : /RambleOnGame/data/The World/North America/Dominican Republic/Dominican Republic National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Dominican Republic Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Dominican Republic Leader.jpg
+Added : /RambleOnGame/data/The World/North America/El Salvador
+Added : /RambleOnGame/data/The World/North America/El Salvador/El Salvador Data.xml
+Added : /RambleOnGame/data/The World/North America/El Salvador/El Salvador Map.png
+Added : /RambleOnGame/data/The World/North America/El Salvador/El Salvador National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/El Salvador Flag.jpg
+Added : /RambleOnGame/data/The World/North America/El Salvador Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Greeland Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Greenland
+Added : /RambleOnGame/data/The World/North America/Greenland/Greenland Data.xml
+Added : /RambleOnGame/data/The World/North America/Greenland/Greenland Map.PNG
+Added : /RambleOnGame/data/The World/North America/Greenland/Greenland National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Greenland/Thumbs.db
+Added : /RambleOnGame/data/The World/North America/Greenland Flag.JPG
+Added : /RambleOnGame/data/The World/North America/Grenada
+Added : /RambleOnGame/data/The World/North America/Grenada/Grenada Data.xml
+Added : /RambleOnGame/data/The World/North America/Grenada/Grenada Map.png
+Added : /RambleOnGame/data/The World/North America/Grenada/Grenada National Anthem.mid.mid
+Added : /RambleOnGame/data/The World/North America/Grenada/Thumbs.db
+Added : /RambleOnGame/data/The World/North America/Grenada Flag.png
+Added : /RambleOnGame/data/The World/North America/Grenada Leader.png
+Added : /RambleOnGame/data/The World/North America/Guatemala
+Added : /RambleOnGame/data/The World/North America/Guatemala/Guatemala Data.xml
+Added : /RambleOnGame/data/The World/North America/Guatemala/Guatemala Map.png
+Added : /RambleOnGame/data/The World/North America/Guatemala/Guatemala National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Guatemala/Thumbs.db
+Added : /RambleOnGame/data/The World/North America/Guatemala Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Guatemala Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Haiti
+Added : /RambleOnGame/data/The World/North America/Haiti/Haiti Data.xml
+Added : /RambleOnGame/data/The World/North America/Haiti/Haiti Map.png
+Added : /RambleOnGame/data/The World/North America/Haiti/Haiti National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Haiti Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Haiti Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Honduras
+Added : /RambleOnGame/data/The World/North America/Honduras/Honduras Data.xml
+Added : /RambleOnGame/data/The World/North America/Honduras/Honduras Map.png
+Added : /RambleOnGame/data/The World/North America/Honduras/National_Anthems_-_Honduras.mid
+Added : /RambleOnGame/data/The World/North America/Honduras Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Jamaica
+Added : /RambleOnGame/data/The World/North America/Jamaica/Jamaica Data.xml
+Added : /RambleOnGame/data/The World/North America/Jamaica/Jamaica Map.png
+Added : /RambleOnGame/data/The World/North America/Jamaica/Jamaica National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Jamaica Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Jamaica Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Martinique
+Added : /RambleOnGame/data/The World/North America/Martinique/Martinique Data.xml
+Added : /RambleOnGame/data/The World/North America/Martinique/Martinique Map.png
+Added : /RambleOnGame/data/The World/North America/Martinique/Martinique National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Martinique Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Martinique Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Mexico
+Added : /RambleOnGame/data/The World/North America/Mexico/Mexico Data.xml
+Added : /RambleOnGame/data/The World/North America/Mexico/Mexico Map.png
+Added : /RambleOnGame/data/The World/North America/Mexico/Mexico National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Mexico Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Mexico Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Nicaragua
+Added : /RambleOnGame/data/The World/North America/Nicaragua/Nicaragua Data.xml
+Added : /RambleOnGame/data/The World/North America/Nicaragua/Nicaragua Map.png
+Added : /RambleOnGame/data/The World/North America/Nicaragua/Nicaragua National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Nicaragua Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Nicaragua Leader.jpg
+Added : /RambleOnGame/data/The World/North America/North America Data.xml
+Added : /RambleOnGame/data/The World/North America/North America Map.png
+Added : /RambleOnGame/data/The World/North America/Panama
+Added : /RambleOnGame/data/The World/North America/Panama/Panama Data.xml
+Added : /RambleOnGame/data/The World/North America/Panama/Panama Map.png
+Added : /RambleOnGame/data/The World/North America/Panama/Panama National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Panama Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Panama Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Saint Kitts and Nevis
+Added : /RambleOnGame/data/The World/North America/Saint Kitts and Nevis/Saint Kitts and Nevis Data.xml
+Added : /RambleOnGame/data/The World/North America/Saint Kitts and Nevis/Saint Kitts and Nevis Map.png
+Added : /RambleOnGame/data/The World/North America/Saint Kitts and Nevis/Saint Kitts and Nevis National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Saint Kitts and Nevis/Thumbs.db
+Added : /RambleOnGame/data/The World/North America/Saint Kitts and Nevis Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Saint Kitts and Nevis Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Saint Lucia
+Added : /RambleOnGame/data/The World/North America/Saint Lucia/Saint Lucia Data.xml
+Added : /RambleOnGame/data/The World/North America/Saint Lucia/Saint Lucia Map.png
+Added : /RambleOnGame/data/The World/North America/Saint Lucia/Saint Lucia National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Saint Lucia/Thumbs.db
+Added : /RambleOnGame/data/The World/North America/Saint Lucia Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Saint Lucia Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Saint Vincent
+Added : /RambleOnGame/data/The World/North America/Saint Vincent/Saint Vincent Data.xml
+Added : /RambleOnGame/data/The World/North America/Saint Vincent/Saint Vincent Map.png
+Added : /RambleOnGame/data/The World/North America/Saint Vincent/Saint Vincent National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Saint Vincent Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Saint Vincent Leader.jpg
+Added : /RambleOnGame/data/The World/North America/Thumbs.db
+Added : /RambleOnGame/data/The World/North America/Turks and Caicos Islands
+Added : /RambleOnGame/data/The World/North America/Turks and Caicos Islands/Turks and Caicos Islands Data.xml
+Added : /RambleOnGame/data/The World/North America/Turks and Caicos Islands/Turks and Caicos Islands Map.png
+Added : /RambleOnGame/data/The World/North America/Turks and Caicos Islands/Turks and Caicos Islands National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/Turks and Caicos Islands Flag.jpg
+Added : /RambleOnGame/data/The World/North America/Turks and Caicos Islands Leader.jpg
+Added : /RambleOnGame/data/The World/North America/United States of America
+Added : /RambleOnGame/data/The World/North America/United States of America/United States of America Data.xml
+Added : /RambleOnGame/data/The World/North America/United States of America/United States of America Map.png
+Added : /RambleOnGame/data/The World/North America/United States of America/United States of America National Anthem.mid
+Added : /RambleOnGame/data/The World/North America/United States of America Flag.jpg
+Added : /RambleOnGame/data/The World/North America/United States of America Leader.jpg
+Added : /RambleOnGame/data/The World/North America/honduras-flag.200.134.jpg
+Added : /RambleOnGame/data/The World/North America/lg-Belize-Flag.gif
+Added : /RambleOnGame/data/The World/Oceania
+Added : /RambleOnGame/data/The World/Oceania/Australia
+Added : /RambleOnGame/data/The World/Oceania/Australia/Australia Data.xml
+Added : /RambleOnGame/data/The World/Oceania/Australia/Australia Map.png
+Added : /RambleOnGame/data/The World/Oceania/Australia/Australia National Anthem.mid
+Added : /RambleOnGame/data/The World/Oceania/Australia/Thumbs.db
+Added : /RambleOnGame/data/The World/Oceania/Australia Flag.jpg
+Added : /RambleOnGame/data/The World/Oceania/Australia Leader.jpg
+Added : /RambleOnGame/data/The World/Oceania/Fiji
+Added : /RambleOnGame/data/The World/Oceania/Fiji/Fiji Map.png
+Added : /RambleOnGame/data/The World/Oceania/Fiji/Fiji National Anthem.mid
+Added : /RambleOnGame/data/The World/Oceania/Fiji/fiji data.xml
+Added : /RambleOnGame/data/The World/Oceania/Fiji Flag.jpg
+Added : /RambleOnGame/data/The World/Oceania/Fiji Leader.jpg
+Added : /RambleOnGame/data/The World/Oceania/Nauru
+Added : /RambleOnGame/data/The World/Oceania/Nauru/Nauru Data.xml
+Added : /RambleOnGame/data/The World/Oceania/Nauru/Nauru Map.png
+Added : /RambleOnGame/data/The World/Oceania/Nauru/Nauru National Anthem.mid
+Added : /RambleOnGame/data/The World/Oceania/Nauru/Thumbs.db
+Added : /RambleOnGame/data/The World/Oceania/Nauru Flag.jpg
+Added : /RambleOnGame/data/The World/Oceania/Nauru Leader.jpg
+Added : /RambleOnGame/data/The World/Oceania/New Zealand
+Added : /RambleOnGame/data/The World/Oceania/New Zealand/New Zealand Data.xml
+Added : /RambleOnGame/data/The World/Oceania/New Zealand/New Zealand Map.png
+Added : /RambleOnGame/data/The World/Oceania/New Zealand/New Zealand National Anthem.mid
+Added : /RambleOnGame/data/The World/Oceania/New Zealand Flag.jpg
+Added : /RambleOnGame/data/The World/Oceania/New Zealand Leader.jpg
+Added : /RambleOnGame/data/The World/Oceania/Papua New Guinea
+Added : /RambleOnGame/data/The World/Oceania/Papua New Guinea/Papua New Guinea Data.xml
+Added : /RambleOnGame/data/The World/Oceania/Papua New Guinea/Papua New Guinea Map.PNG
+Added : /RambleOnGame/data/The World/Oceania/Papua New Guinea/Papua New Guinea National Anthem.mid
+Added : /RambleOnGame/data/The World/Oceania/Papua New Guinea Flag.png
+Added : /RambleOnGame/data/The World/Oceania/Papua New Guinea Leader.jpg
+Added : /RambleOnGame/data/The World/Oceania/Samoa
+Added : /RambleOnGame/data/The World/Oceania/Samoa/Samoa Data.xml
+Added : /RambleOnGame/data/The World/Oceania/Samoa/Samoa Map.png
+Added : /RambleOnGame/data/The World/Oceania/Samoa/Samoa.mid
+Added : /RambleOnGame/data/The World/Oceania/Samoa/Thumbs.db
+Added : /RambleOnGame/data/The World/Oceania/Samoa Flag.jpg
+Added : /RambleOnGame/data/The World/Oceania/Samoa Leader.jpg
+Added : /RambleOnGame/data/The World/Oceania/Vanuatu
+Added : /RambleOnGame/data/The World/Oceania/Vanuatu/Thumbs.db
+Added : /RambleOnGame/data/The World/Oceania/Vanuatu/Vanuatu Data.xml
+Added : /RambleOnGame/data/The World/Oceania/Vanuatu/Vanuatu Map.png
+Added : /RambleOnGame/data/The World/Oceania/Vanuatu/Vatuatu National Anthem.mid
+Added : /RambleOnGame/data/The World/Oceania/Vanuatu Flag.png
+Added : /RambleOnGame/data/The World/Oceania/Vanuatu Leader.png
+Added : /RambleOnGame/data/The World/RegionData.xsd
+Added : /RambleOnGame/data/The World/South America
+Added : /RambleOnGame/data/The World/South America/Argentina
+Added : /RambleOnGame/data/The World/South America/Argentina/Argentina Data.xml
+Added : /RambleOnGame/data/The World/South America/Argentina/Argentina Map.png
+Added : /RambleOnGame/data/The World/South America/Argentina/Argentina National Anthem.mid
+Added : /RambleOnGame/data/The World/South America/Argentina Flag.jpg
+Added : /RambleOnGame/data/The World/South America/Argentina Leader.jpg
+Added : /RambleOnGame/data/The World/South America/Bolivia
+Added : /RambleOnGame/data/The World/South America/Bolivia/Bolivia Data.xml
+Added : /RambleOnGame/data/The World/South America/Bolivia/Bolivia Map.png
+Added : /RambleOnGame/data/The World/South America/Bolivia/Bolivia National Anthem.mid
+Added : /RambleOnGame/data/The World/South America/Bolivia Flag.jpg
+Added : /RambleOnGame/data/The World/South America/Bolivia Leader.jpg
+Added : /RambleOnGame/data/The World/South America/Brazil
+Added : /RambleOnGame/data/The World/South America/Brazil/Brazil Data.xml
+Added : /RambleOnGame/data/The World/South America/Brazil/Brazil Map.png
+Added : /RambleOnGame/data/The World/South America/Brazil/National_Anthems_-_Brazil.mid
+Added : /RambleOnGame/data/The World/South America/Brazil Flag.png
+Added : /RambleOnGame/data/The World/South America/Brazil Leader.png
+Added : /RambleOnGame/data/The World/South America/Chile
+Added : /RambleOnGame/data/The World/South America/Chile/Chile Data.xml
+Added : /RambleOnGame/data/The World/South America/Chile/Chile Map.png
+Added : /RambleOnGame/data/The World/South America/Chile/Chile National Anthem.mid
+Added : /RambleOnGame/data/The World/South America/Chile/Thumbs.db
+Added : /RambleOnGame/data/The World/South America/Colombia
+Added : /RambleOnGame/data/The World/South America/Colombia/Colombia Data.xml
+Added : /RambleOnGame/data/The World/South America/Colombia/Colombia Map.png
+Added : /RambleOnGame/data/The World/South America/Colombia/Colombia National Anthem.mid
+Added : /RambleOnGame/data/The World/South America/Colombia/Thumbs.db
+Added : /RambleOnGame/data/The World/South America/Colombia Flag.jpg
+Added : /RambleOnGame/data/The World/South America/Colombia Leader.jpg
+Added : /RambleOnGame/data/The World/South America/Ecuador
+Added : /RambleOnGame/data/The World/South America/Ecuador/Ecuador Data.xml
+Added : /RambleOnGame/data/The World/South America/Ecuador/Ecuador Map.png
+Added : /RambleOnGame/data/The World/South America/Ecuador/Ecuador National Anthem.mid
+Added : /RambleOnGame/data/The World/South America/Ecuador Flag.jpg
+Added : /RambleOnGame/data/The World/South America/Ecuador Leader.jpg
+Added : /RambleOnGame/data/The World/South America/Guyana
+Added : /RambleOnGame/data/The World/South America/Guyana/Guyana Data.xml
+Added : /RambleOnGame/data/The World/South America/Guyana/Guyana Map.png
+Added : /RambleOnGame/data/The World/South America/Guyana/Guyana National Anthem.mid
+Added : /RambleOnGame/data/The World/South America/Guyana Flag.jpg
+Added : /RambleOnGame/data/The World/South America/Guyana Leader.jpg
+Added : /RambleOnGame/data/The World/South America/Paraguay
+Added : /RambleOnGame/data/The World/South America/Paraguay/Paraguary Data.xml
+Added : /RambleOnGame/data/The World/South America/Paraguay/Paraguay Map.png
+Added : /RambleOnGame/data/The World/South America/Paraguay/Paraguay National Anthem.mid
+Added : /RambleOnGame/data/The World/South America/Paraguay Flag.jpg
+Added : /RambleOnGame/data/The World/South America/Paraguay Leader.jpg
+Added : /RambleOnGame/data/The World/South America/Peru
+Added : /RambleOnGame/data/The World/South America/Peru/Peru Anthem.mid
+Added : /RambleOnGame/data/The World/South America/Peru/Peru Data.xml
+Added : /RambleOnGame/data/The World/South America/Peru/Peru Map.png
+Added : /RambleOnGame/data/The World/South America/Peru Flag.jpg
+Added : /RambleOnGame/data/The World/South America/Peru Leader.jpg
+Added : /RambleOnGame/data/The World/South America/South America Data.xml
+Added : /RambleOnGame/data/The World/South America/South America Map.png
+Added : /RambleOnGame/data/The World/South America/Thumbs.db
+Added : /RambleOnGame/data/The World/South America/Trinidad
+Added : /RambleOnGame/data/The World/South America/Trinidad/Trinidad Data.xml
+Added : /RambleOnGame/data/The World/South America/Trinidad/Trinidad Map.PNG
+Added : /RambleOnGame/data/The World/South America/Trinidad/Trinidad National Anthem.mid
+Added : /RambleOnGame/data/The World/South America/Trinidad Flag.png
+Added : /RambleOnGame/data/The World/South America/Trinidad Leader.png
+Added : /RambleOnGame/data/The World/South America/Uruguay
+Added : /RambleOnGame/data/The World/South America/Uruguay/Uruguay Data.xml
+Added : /RambleOnGame/data/The World/South America/Uruguay/Uruguay Map.png
+Added : /RambleOnGame/data/The World/South America/Uruguay/Uruguay National Anthem.mid
+Added : /RambleOnGame/data/The World/South America/Uruguay Flag.jpg
+Added : /RambleOnGame/data/The World/South America/Uruguay Leader.jpg
+Added : /RambleOnGame/data/The World/South America/Venezuela
+Added : /RambleOnGame/data/The World/South America/Venezuela/Venezuela Data.xml
+Added : /RambleOnGame/data/The World/South America/Venezuela/Venezuela Map.png
+Added : /RambleOnGame/data/The World/South America/Venezuela/Venezuela National Anthem.mid
+Added : /RambleOnGame/data/The World/South America/Venezuela Flag.png
+Added : /RambleOnGame/data/The World/South America/Venezuela Leader.png
+Added : /RambleOnGame/data/The World/The World Data.xml
+Added : /RambleOnGame/data/The World/The World Map.png
+Added : /RambleOnGame/data/The World/Thumbs.db
+Added : /RambleOnGame/data/accounts
+Added : /RambleOnGame/data/accounts/SamTest
+Added : /RambleOnGame/data/accounts/accounts.txt
+Added : /RambleOnGame/data/images
+Added : /RambleOnGame/data/images/ACCT.png
+Added : /RambleOnGame/data/images/AcctScreen.jpg
+Added : /RambleOnGame/data/images/Cancel.jpg
+Added : /RambleOnGame/data/images/EXIT.png
+Added : /RambleOnGame/data/images/EnterName.jpg
+Added : /RambleOnGame/data/images/NewAccount.jpg
+Added : /RambleOnGame/data/images/OK.jpg
+Added : /RambleOnGame/data/images/START.png
+Added : /RambleOnGame/data/images/cm.png
+Added : /RambleOnGame/data/images/fm.png
+Added : /RambleOnGame/data/images/gamescreen.jpg
+Added : /RambleOnGame/data/images/gotoacct.jpg
+Added : /RambleOnGame/data/images/lm.png
+Added : /RambleOnGame/data/images/logo.png
+Added : /RambleOnGame/data/images/mbg.png
+Added : /RambleOnGame/data/images/offcm.png
+Added : /RambleOnGame/data/images/offfm.png
+Added : /RambleOnGame/data/images/offlm.png
+Added : /RambleOnGame/data/images/offsrm.png
+Added : /RambleOnGame/data/images/srm.png
+Added : /RambleOnGame/data/images/victory.png
+Added : /RambleOnGame/data/images/welcome.png
+Added : /RambleOnGame/src/rambleongame/RambleOnGameDataModel.java
+Added : /RambleOnGame/src/rambleongame/RambleOnGamePanel.java
+Added : /RambleOnGame/src/rambleongame/Region.java
+Added : /RambleOnGame/src/rambleongame/events/CapStart.java
+Added : /RambleOnGame/src/rambleongame/events/ExitGameHandler.java
+Added : /RambleOnGame/src/rambleongame/events/FlagMode.java
+Added : /RambleOnGame/src/rambleongame/events/LeaderMode.java
+Added : /RambleOnGame/src/rambleongame/events/NewGameHandler.java
+Added : /RambleOnGame/src/rambleongame/events/SubRegStart.java
+Added : /RambleOnGame/src/rambleongame/events/welcomeHandler.java
+Added : /RambleOnGame/src/rambleongame/subRegion.java
+
+Revision: 75
+Author: Sam
+Date: Wednesday, May 15, 2013 6:35:08 AM
+Message:
+All 4 modes!
+----
+Modified : /RambleOnGame/src/dataLoader/dataLoader.java
+Modified : /RambleOnGame/src/rambleongame/RambleOnGame.java
+Modified : /RambleOnGame/src/rambleongame/events/TextFieldHandler.java
+
+Revision: 74
+Author: Sam
+Date: Wednesday, May 15, 2013 5:04:24 AM
+Message:
+Lots of buttons & such
+----
+Modified : /RambleOnGame/src/rambleongame/RambleOnGame.java
+Added : /RambleOnGame/src/rambleongame/events
+Added : /RambleOnGame/src/rambleongame/events/CancelHandler.java (Copy from path: /TheRambleOnGame/src/therambleongame/events/CancelHandler.java, Revision, 48)
+Added : /RambleOnGame/src/rambleongame/events/NewAcctHandler.java (Copy from path: /TheRambleOnGame/src/therambleongame/events/NewAcctHandler.java, Revision, 48)
+Added : /RambleOnGame/src/rambleongame/events/TextFieldHandler.java (Copy from path: /TheRambleOnGame/src/therambleongame/events/TextFieldHandler.java, Revision, 48)
+
+Revision: 73
+Author: Sam
+Date: Wednesday, May 15, 2013 4:22:20 AM
+Message:
+Account Reading Added
+----
+Added : /RambleOnGame/src/rambleongame/Accounts.java (Copy from path: /TheRambleOnGame/src/therambleongame/Accounts.java, Revision, 48)
+Modified : /RambleOnGame/src/rambleongame/RambleOnGame.java
+
+Revision: 72
+Author: Sam
+Date: Wednesday, May 15, 2013 1:15:58 AM
+Message:
+2 Working Modes
+----
+Modified : /RambleOnGame/src/dataLoader/dataLoader.java
+Modified : /RambleOnGame/src/rambleongame/RambleOnGame.java
+
+Revision: 71
+Author: Sam
+Date: Tuesday, May 14, 2013 6:43:57 PM
+Message:
+Navigation through map complete
+----
+Modified : /RambleOnGame/src/dataLoader/dataLoader.java
+Modified : /RambleOnGame/src/rambleongame/RambleOnGame.java
+
+Revision: 70
+Author: Sam
+Date: Tuesday, May 14, 2013 5:39:32 PM
+Message:
+Right click works (part 1) but so LAGGY T_T
+----
+Modified : /RambleOnGame/src/rambleongame/RambleOnGame.java
+
+Revision: 69
+Author: Sam
+Date: Tuesday, May 14, 2013 4:15:27 PM
+Message:
+Maps now change
+----
+Modified : /RambleOnGame/src/dataLoader/dataLoader.java
+Modified : /RambleOnGame/src/rambleongame/RambleOnGame.java
+
+Revision: 68
+Author: Sam
+Date: Tuesday, May 14, 2013 2:33:23 PM
+Message:
+Testing Mouse Click/Backup
+----
+Modified : /RambleOnGame/src/rambleongame/RambleOnGame.java
+
+Revision: 67
+Author: Sam
+Date: Tuesday, May 14, 2013 4:10:51 AM
+Message:
+Editing Mouse Press
+----
+Modified : /RambleOnGame/src/dataLoader/dataLoader.java
+Modified : /RambleOnGame/src/rambleongame/RambleOnGame.java
+
+Revision: 66
+Author: Sam
+Date: Tuesday, May 14, 2013 2:21:57 AM
+Message:
+Update/started coding main game.
+----
+Modified : /RambleOnGame/src/rambleongame/RambleOnGame.java
+
+Revision: 65
+Author: Sam
+Date: Saturday, May 11, 2013 1:26:05 AM
+Message:
+Added Data/Panel Classes
+----
+Modified : /RambleOnGame/src/rambleongame/RambleOnGame.java
+
+Revision: 64
+Author: Sam
+Date: Friday, May 10, 2013 9:25:56 PM
+Message:
+Implement MiniGame Framework
+----
+Modified : /RambleOnGame/nbproject/project.properties
+Modified : /RambleOnGame/src/rambleongame/RambleOnGame.java
+
+Revision: 63
+Author: Sam
+Date: Friday, May 10, 2013 8:12:21 PM
+Message:
+Completed data loading classes and object creation.
+----
+Modified : /RambleOnGame/src/dataLoader/dataLoader.java
+Modified : /RambleOnGame/src/rambleongame/RambleOnGame.java
+
+Revision: 62
+Author: Sam
+Date: Friday, May 10, 2013 7:57:58 PM
+Message:
+Loading maps/leaders/flags
+----
+Modified : /RambleOnGame/src/dataLoader/dataLoader.java
+Modified : /RambleOnGame/src/rambleongame/RambleOnGame.java
+
+Revision: 61
+Author: Sam
+Date: Friday, May 10, 2013 6:30:00 PM
+Message:
+Loader constructed with region objects.
+----
+Modified : /RambleOnGame
+Modified : /RambleOnGame/src/dataLoader/dataLoader.java
+Modified : /RambleOnGame/src/rambleongame/RambleOnGame.java
+
+Revision: 60
+Author: Sam
+Date: Friday, May 10, 2013 5:48:17 PM
+Message:
+Reconstructed XML loader for exclusive usage.
+----
+Modified : /RambleOnGame
+Added : /RambleOnGame/build.xml
+Added : /RambleOnGame/manifest.mf
+Added : /RambleOnGame/nbproject
+Added : /RambleOnGame/nbproject/build-impl.xml
+Added : /RambleOnGame/nbproject/genfiles.properties
+Added : /RambleOnGame/nbproject/project.properties
+Added : /RambleOnGame/nbproject/project.xml
+Added : /RambleOnGame/src
+Added : /RambleOnGame/src/dataLoader
+Added : /RambleOnGame/src/dataLoader/dataLoader.java
+Added : /RambleOnGame/src/rambleongame
+Added : /RambleOnGame/src/rambleongame/RambleOnGame.java
+
+Revision: 59
+Author: Sam
+Date: Friday, May 10, 2013 5:48:13 PM
+Message:
+Reconstructed XML loader for exclusive usage.
+----
+Added : /RambleOnGame
+

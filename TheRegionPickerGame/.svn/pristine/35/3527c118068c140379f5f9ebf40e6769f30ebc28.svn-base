@@ -1,0 +1,293 @@
+package theregionpickergame;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import javax.imageio.ImageIO;
+import java.io.IOException;
+import mini_game.Sprite;
+import mini_game.SpriteType;
+import static theregionpickergame.TheRegionPickerGame.*;
+import java.awt.Color;
+import java.util.Collections;
+import java.util.ArrayList;
+import java.util.Arrays;
+import theregionpickergame.sprites.Region;
+/**
+ * TheRegionPickerGame - Map Class
+ * CSE219 HW3
+ * @author Sam Wang
+ * Map class serves to draw map on screen & manipulate map color/gather map data, etc
+ */
+public class Map {
+    
+    private static final int x = 0;
+    private static final int y =0;
+    private static int height;
+    private static int width;
+    
+    private SpriteType  sT = new SpriteType(MAP_TYPE);
+    private BufferedImage img = null;
+    private Sprite s;
+    
+    private final Color sea= new Color(0,163,216);
+    
+    private final Color sam = new Color(105,105,105);
+    private final Color haa = new Color(110,110,110);
+    private final Color par = new Color(115,115,115);
+    private final Color thim = new Color(120,120,120);
+    private final Color chh = new Color(125,125,125);
+    private final Color gas = new Color(130,130,130);
+    private final Color pun = new Color(135,135,135);
+    private final Color wan = new Color(140,140,140);
+    private final Color dag = new Color(145,145,145);
+    private final Color tsi = new Color(150,150,150);
+    private final Color tro = new Color(155,155,155);
+    private final Color sar = new Color(160,160,160);
+    private final Color bum = new Color(165,165,165);
+    private final Color zhe = new Color(170,170,170);
+    private final Color lhu = new Color(175,175,175);
+    private final Color mon = new Color(180,180,180);
+    private final Color tray = new Color(185,185,185);
+    private final Color trag = new Color(190,190,190);
+    private final Color pem = new Color(195,195,195);
+    private final Color samd = new Color(200,200,200);
+    
+    private Region[] regArray;
+    
+    private Region samR = new Region("Samtse",sam);
+    private Region haaR = new Region("Haa",haa);
+    private Region parR = new Region("Paro",par);
+    private Region thimR = new Region("Thimphu",thim);
+    private Region chhR = new Region("Chhukha",chh);
+    private Region gasR = new Region("Gasa",gas);
+    private Region punR = new Region("Punakha",pun);
+    private Region wanR = new Region("Wangdue Phodrang",wan);
+    private Region dagR = new Region("Dagana",dag);
+    private Region tsiR = new Region("Tsirang",tsi);
+    private Region troR = new Region("Trongsa",tro);
+    private Region sarR = new Region("Sarpang",sar);
+    private Region bumR = new Region("Bumthang",bum);
+    private Region zheR = new Region("Zhemgang",zhe);
+    private Region lhuR = new Region("Lhuentse",lhu);
+    private Region monR = new Region("Mongar",mon);
+    private Region trayR = new Region("Trashiyangtse",tray);
+    private Region tragR = new Region("Trashigang",trag);
+    private Region pemR = new Region("Pemagatshel",pem);
+    private Region samdR = new Region("Samdrup Jongkhar",samd);
+    
+    private ArrayList<Integer> xcord= new ArrayList();
+    private ArrayList<Integer> ycord= new ArrayList();
+    private ArrayList<Integer> color= new ArrayList();
+    
+    public Map(){
+        try {
+            img = ImageIO.read(new File("./data/images/Bhutan2.png"));
+        } catch (IOException e) {
+            }
+        height = img.getHeight();
+        width = img.getWidth();
+        getMapData();
+        constructSprite();
+        initArray();
+    }
+    private void getMapData(){
+        for(int i=0;i<height;i++){
+            for(int k=0;k<width;k++){
+                
+                if(img.getRGB(k,i)!=sea.getRGB()){
+                    xcord.add(k);
+                    ycord.add(i);
+                    color.add(img.getRGB(k,i));
+                }
+                if(img.getRGB(k,i)==sam.getRGB()){
+                    samR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==haa.getRGB()){
+                    haaR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==par.getRGB()){
+                    parR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==thim.getRGB()){
+                    thimR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==chh.getRGB()){
+                    chhR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==gas.getRGB()){
+                    gasR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==pun.getRGB()){
+                    punR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==wan.getRGB()){
+                    wanR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==dag.getRGB()){
+                    dagR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==tsi.getRGB()){
+                    tsiR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==tro.getRGB()){
+                    troR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==sar.getRGB()){
+                    sarR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==bum.getRGB()){
+                    bumR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==zhe.getRGB()){
+                    zheR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==lhu.getRGB()){
+                    lhuR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==mon.getRGB()){
+                    monR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==tray.getRGB()){
+                    trayR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==trag.getRGB()){
+                    tragR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==pem.getRGB()){
+                    pemR.addCoord(k, i);
+                }
+                if(img.getRGB(k,i)==samd.getRGB()){
+                    samdR.addCoord(k, i);
+                }
+            }
+        }
+    }
+    public void initArray(){
+        regArray = new Region[20];
+        regArray[0]=samR;
+        regArray[1]=haaR;
+        regArray[2]= parR;
+        regArray[3]= thimR;
+        regArray[4]= chhR;
+        regArray[5]= gasR;
+        regArray[6]= punR;
+        regArray[7]= wanR;
+        regArray[8]= dagR;
+        regArray[9]= tsiR;
+        regArray[10]= troR;
+        regArray[11]= sarR;
+        regArray[12]= bumR;
+        regArray[13]= zheR;
+        regArray[14]= lhuR;
+        regArray[15]= monR;
+        regArray[16]= trayR;
+        regArray[17]= tragR;
+        regArray[18]= pemR;
+        regArray[19]= samdR;
+        Collections.shuffle(Arrays.asList(regArray));
+    }
+    private void constructSprite(){
+        sT.addState(PLAY_STATE, img);
+        BufferedImage img2 = new BufferedImage(1, 1, BufferedImage.TYPE_4BYTE_ABGR);
+	sT.addState(DEFAULT_STATE, img2);
+        s = new Sprite(sT, x, y, 0, 0, DEFAULT_STATE);
+    }
+    public Sprite getSprite(){
+        return s;
+    }
+    public Region[] getRegionArray(){
+        return regArray;
+    }
+    public BufferedImage getImg(){
+        return img;
+    }
+    public Color getSea(){
+        return sea;
+    }
+    public Region analyzeColor(int rgb){
+                if(rgb==sam.getRGB()){
+                    return samR;
+                }
+                if(rgb==haa.getRGB()){
+                    return haaR;
+                }
+                if(rgb==par.getRGB()){
+                    return parR;
+                }
+                if(rgb==thim.getRGB()){
+                    return thimR;
+                }
+                if(rgb==chh.getRGB()){
+                    return chhR;
+                }
+                if(rgb==gas.getRGB()){
+                    return gasR;
+                }
+                if(rgb==pun.getRGB()){
+                    return punR;
+                }
+                if(rgb==wan.getRGB()){
+                    return wanR;
+                }
+                if(rgb==dag.getRGB()){
+                    return dagR;
+                }
+                if(rgb==tsi.getRGB()){
+                    return tsiR;
+                }
+                if(rgb==tro.getRGB()){
+                    return troR;
+                }
+                if(rgb==sar.getRGB()){
+                    return sarR;
+                }
+                if(rgb==bum.getRGB()){
+                    return bumR;
+                }
+                if(rgb==zhe.getRGB()){
+                    return zheR;
+                }
+                if(rgb==lhu.getRGB()){
+                    return lhuR;
+                }
+                if(rgb==mon.getRGB()){
+                    return monR;
+                }
+                if(rgb==tray.getRGB()){
+                    return trayR;
+                }
+                if(rgb==trag.getRGB()){
+                    return tragR;
+                }
+                if(rgb==pem.getRGB()){
+                    return pemR;
+                }
+                if(rgb==samd.getRGB()){
+                    return samdR;
+                }
+        return null;
+    }
+    public void deleteRegion(){
+        if(regArray.length>1){
+        Region[] temp = new Region[regArray.length-1];
+        for(int i=0;i<temp.length;i++){
+                temp[i]=regArray[i+1];
+                }
+        regArray = temp;
+        }
+        else{
+            regArray = new Region[20];
+        }
+    }
+    public void resetColor(){
+        for(int i=0;i<xcord.size();i++){
+            img.setRGB(xcord.get(i), ycord.get(i), color.get(i));
+            }
+    }
+    public void resetRED(){
+        for(int i=0;i<xcord.size();i++){
+            if(img.getRGB(xcord.get(i), ycord.get(i))==Color.RED.getRGB()){
+            img.setRGB(xcord.get(i), ycord.get(i), color.get(i));
+            }
+        }
+    }
+}

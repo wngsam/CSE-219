@@ -1,0 +1,119 @@
+package theregionpickergame;
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.Graphics;
+import java.awt.Image;
+import java.util.Collection;
+import static theregionpickergame.TheRegionPickerGame.*;
+import javax.swing.JPanel;
+import mini_game.MiniGame;
+import mini_game.Sprite;
+import mini_game.SpriteType;
+import theregionpickergame.sprites.Region;
+import java.util.List;
+import java.util.Arrays;
+/**
+ * TheRegionPickerGame - Panel
+ * @author Sam Wang
+ */
+public class TheRegionPickerGamePanel extends JPanel{
+    
+    private MiniGame game;
+    private TheRegionPickerGameDataModel data;
+    public List<Region> regions;
+    
+        public TheRegionPickerGamePanel(MiniGame initGame, TheRegionPickerGameDataModel initData)
+	{
+		game = initGame;
+		data = initData;
+        }
+        public void paintComponent(Graphics g)
+	{
+            renderToGraphicsContext(g);
+        }
+        public void renderToGraphicsContext(Graphics g)
+        {
+		renderBackground(g);
+                renderMap(g);
+                renderGameSprites(g);
+		renderGUIControls(g);
+                renderStats(g);
+        }
+        public void renderGameSprites(Graphics g)
+        {  if(map.getRegionArray()[0]!=null){ 
+            regions = Arrays.asList(map.getRegionArray());
+            Sprite s;
+            int b=50;
+            s = new Sprite(regions.get(0).getSpriteType(), 1009,715-b,0,1.5f,"CURRENT_STATE");
+            renderSprite(g, s);
+            for(int i=1;i<regions.size();i++){
+                s = new Sprite(regions.get(i).getSpriteType(), 1009,665-b,0,1.5f,"DEFAULT_STATE");
+                b+=50;
+                renderSprite(g, s);
+            }
+        }
+        }
+        public void renderBackground(Graphics g)
+	{
+		Sprite bg = game.getGUIDecor().get(BACKGROUND_TYPE);
+                renderSprite(g, bg);
+        }
+        public void renderMap(Graphics g){
+            Sprite bg = game.getGUIDecor().get(MAP_TYPE);
+            renderSprite(g, bg);
+        }
+        public void renderGUIControls(Graphics g)
+	{
+		Collection<Sprite> decorSprites = game.getGUIDecor().values();
+		for (Sprite s : decorSprites)
+		{
+			if (!s.getSpriteType().getSpriteTypeID().equals(BACKGROUND_TYPE) && !s.getSpriteType().getSpriteTypeID().equals(MAP_TYPE))
+				renderSprite(g, s);
+                }
+		Collection<Sprite> buttonSprites = game.getGUIButtons().values();
+		for (Sprite s : buttonSprites)
+			renderSprite(g, s);
+        }
+        public void renderSprite(Graphics g, Sprite s)
+	{
+			SpriteType bgST = s.getSpriteType();
+			Image img = bgST.getStateImage(s.getState());
+			g.drawImage(img, (int)s.getX(), (int)s.getY(), bgST.getWidth(), bgST.getHeight(), null);
+	}
+        public void renderStats(Graphics g){
+            String str;
+            
+            str = "Game Score: "+data.getCurrentGameScore();
+            g.setColor ( new Color ( 248, 248, 255 ) );
+            g.setFont(new Font(null, Font.PLAIN, 16));
+            g.drawString(str, 75,50);
+            
+            str = "Regions Found: "+data.getCurrentRegionsFound();
+            g.setColor ( new Color ( 248, 248, 255 ) );
+            g.setFont(new Font(null, Font.PLAIN, 16));
+            g.drawString(str, 75,70);
+            
+            str = "Regions Left: "+data.getCurrentRegionsLeft();
+            g.setColor ( new Color ( 248, 248, 255 ) );
+            g.setFont(new Font(null, Font.PLAIN, 16));
+            g.drawString(str, 75,90);
+            
+            str = "Incorrect Guesses: "+data.getCurrentIncorrectGuesses();
+            g.setColor ( new Color ( 248, 248, 255 ) );
+            g.setFont(new Font(null, Font.PLAIN, 16));
+            g.drawString(str, 75,111);
+            
+            int min=data.getSeconds()/60;
+            int sec=data.getSeconds()%60;
+            if(sec>9){
+            str = "Timer: "+min+":"+sec;}
+            else{
+            str="Timer: "+min+":0"+sec;}
+            g.setColor ( new Color ( 248, 248, 255 ) );
+            g.setFont(new Font(null, Font.PLAIN, 18));
+            g.drawString(str, 75,135);
+        }
+        public List<Region> getList(){
+            return regions;
+        }
+}
